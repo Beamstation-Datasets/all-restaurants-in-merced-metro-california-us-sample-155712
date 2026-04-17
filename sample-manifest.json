@@ -1,0 +1,12 @@
+{
+  "export_job_id": "667d4fdb-9fcf-4bbd-a39a-17021e465af2",
+  "id_short": 155712,
+  "published_at": "2026-04-17T07:13:57Z",
+  "repo_name": "all-restaurants-in-merced-metro-california-us-sample-155712",
+  "sample_asset_name": "beamstation_155712_restaurants-us-mercedca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/155712/beamstation_155712_restaurants-us-mercedca_SAMPLE_DIST.csv",
+  "sample_records": 24,
+  "sample_sha256": "06afe018116159d6924b385f2b30f2afae9353149fefbf8dcf0ca5add3630fe4",
+  "sample_size_bytes": 101819,
+  "total_records": 250
+}
