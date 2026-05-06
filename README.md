@@ -9,9 +9,9 @@
 | Dataset ID | `155712` |
 | Location | Merced, CA |
 | Category | Restaurants |
-| Full dataset size | 245 records |
-| Free sample size | 24 records (9.8%) |
-| Last export | 2026-04-28T13:57:17.580943+00:00 |
+| Full dataset size | 247 records |
+| Free sample size | 24 records (9.72%) |
+| Last export | 2026-05-06T02:40:07.698249+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-merced-metro-california-us-sample-155712/releases/download/sample-latest/beamstation_155712_restaurants-us-mercedca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
